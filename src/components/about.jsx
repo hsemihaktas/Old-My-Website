@@ -9,17 +9,18 @@ const About = () => {
         <div className="text-white w-full py-10 px-5 lg:w-2/3 lg:px-60 ">
           <div className="text-3xl my-3 lg:text-5xl lg:my-5">Who is Semih?</div>
           <div className="text-l my-3 lg:text-xl lg:my-5">
-            Hi, I'm Semih,<br/> I entered the world of computer engineering in 2019
-            by winning the Computer Engineering department of Sakarya
-            University. After studying at Sakarya University for 1 year, I
-            transferred to Istanbul Medeniyet University. I have seen various
-            software languages in my university life. Among these software
-            languages, I saw ReactJS and NodeJS as close to myself and I am
-            trying to improve myself in these areas.
+            Hi, I'm Semih,
+            <br /> I entered the world of computer engineering in 2019 by
+            winning the Computer Engineering department of Sakarya University.
+            After studying at Sakarya University for 1 year, I transferred to
+            Istanbul Medeniyet University. I have seen various software
+            languages in my university life. Among these software languages, I
+            saw ReactJS and NodeJS as close to myself and I am trying to improve
+            myself in these areas.
           </div>
           <div className="social-buttons">
             <a
-              href="http://linkedin.com/"
+              href="https://www.linkedin.com/in/hsemihaktas/"
               className="social-margin"
               target="blank"
             >
@@ -28,7 +29,7 @@ const About = () => {
               </div>
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/hsemihaktas"
               target="blank"
               className="social-margin"
             >
@@ -37,7 +38,7 @@ const About = () => {
               </div>
             </a>
             <a
-              href="http://twitter.com/"
+              href="https://twitter.com/hsemihaktas"
               target="blank"
               className="social-margin"
             >
@@ -46,7 +47,7 @@ const About = () => {
               </div>
             </a>
             <a
-              href="http://twitter.com/"
+              href="https://www.instagram.com/hsemihaktas/"
               target="blank"
               className="social-margin"
             >
