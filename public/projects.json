@@ -1,0 +1,20 @@
+[
+  {
+    "baslik": "PAE Website",
+    "aciklama": "During my internship, I developed a website using ReactJS, next.js, and Tailwind CSS. ",
+    "siteLink": "",
+    "resimDosya": "PAE.jpeg"
+  },
+  {
+    "baslik": "Blur Face",
+    "aciklama": "A project that explores the process of blurring artificial intelligence, presented as a university term paper. I developed the front-end of this website using Django.",
+    "siteLink": "https://github.com/hsemihaktas/BlurryFace",
+    "resimDosya": "BlurFace.png"
+  },
+  {
+    "baslik": "Riot Twitch Bot",
+    "aciklama": "We are collaborating on a Twitch chatbot that utilizes Node.js and the Axios library to access the Riot Games API. The chatbot aims to furnish Twitch viewers with up-to-date in-game data for both 'League of Legends' and 'Teamfight Tactics' matches.",
+    "siteLink": "https://github.com/hsemihaktas/RiotTwitchBot",
+    "resimDosya": "RiotTwicthBot.png"
+  }
+]
