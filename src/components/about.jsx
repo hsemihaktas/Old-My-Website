@@ -3,6 +3,12 @@ import QuestionPNG from "../images/question.png";
 import "font-awesome/css/font-awesome.min.css";
 
 const About = () => {
+  const handleDownload = () => {
+    const anchor = document.createElement("a");
+    anchor.href = "/cv.pdf"; // Zip dosyanızın yolu
+    anchor.download = "HasanSemihAktasCV.pdf"; // İndirilen dosyanın adı
+    anchor.click();
+  };
   return (
     <>
       <div className="w-screen lg:w-full h-auto lg:h-screen lg:flex items-center justify-center gap-5 bg-[#242424]">
@@ -64,6 +70,15 @@ const About = () => {
                 <i className="fa fa-envelope" aria-hidden="true"></i>
               </div>
             </a>
+            <button
+              onClick={handleDownload}
+              target="blank"
+              className="social-margin"
+            >
+              <div className="social-icon file">
+                <i className="fa fa-file" aria-hidden="true"></i>
+              </div>
+            </button>
           </div>
         </div>
         <div className="w-0 lg:w-1/3 lg:h-1/2 lg:flex lg:flex-wrap ">

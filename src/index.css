@@ -128,3 +128,15 @@ a:active {
   background-color: #ffffff;
   color: #ee1717;
 }
+/* File Button Styling */
+.file {
+  font-size: 22px;
+  padding-top: 9px;
+  border-color: #121212;
+  background-color: #121212;
+  color: #ffffff;
+}
+.file:hover {
+  background-color: #ffffff;
+  color: #121212;
+}
