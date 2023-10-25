@@ -14,7 +14,7 @@ const Project = () => {
 
   return (
     <>
-      <div className="w-screen lg:w-full h-auto lg:h-auto lg:flex lg:flex-wrap lg:justify-center lg:items-center p-20 gap-5 bg-[#363636]">
+      <div className="w-full lg:w-full h-auto lg:h-auto lg:flex lg:flex-wrap lg:justify-center lg:items-center p-20 gap-5 bg-[#363636]">
         <div className="w-full">
           <h1 className="text-4xl font-semibold mb-4 text-center text-white">
             Project List

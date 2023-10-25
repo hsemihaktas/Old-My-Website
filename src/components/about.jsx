@@ -11,7 +11,7 @@ const About = () => {
   };
   return (
     <>
-      <div className="w-screen lg:w-full h-auto lg:h-screen lg:flex items-center justify-center gap-5 bg-[#242424]">
+      <div className="w-full lg:w-full h-auto lg:h-screen lg:flex items-center justify-center gap-5 bg-[#242424]">
         <div className="text-white w-full py-10 px-5 lg:w-2/3 lg:px-60 ">
           <div className="text-3xl my-3 lg:text-5xl lg:my-5">Who is Semih?</div>
           <div className="text-l my-3 lg:text-xl lg:my-5">

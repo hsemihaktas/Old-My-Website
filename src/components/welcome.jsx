@@ -34,7 +34,7 @@ const Welcome = () => {
 
   return (
     <>
-        <div className='h-screen w-screen lg:w-full bg-cover bg-center' style={{backgroundImage: `url(${WelcomeBackground})`}}>
+        <div className='h-screen w-full lg:w-full bg-cover bg-center' style={{backgroundImage: `url(${WelcomeBackground})`}}>
             <div className='absolute flex w-full h-full justify-center items-center mt-16'>
                 <div className='w-full text-center'>
                 <h1 className='title text-white text-7xl'>Hello!</h1>
