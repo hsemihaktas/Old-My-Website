@@ -1,20 +1,30 @@
 [
   {
-    "baslik": "PAE Website",
-    "aciklama": "During my internship, I developed a website using ReactJS, next.js, and Tailwind CSS. ",
-    "siteLink": "",
-    "resimDosya": "PAE.jpeg"
+    "title": "PAE Website",
+    "description": "During my internship, I developed a website using ReactJS, next.js, and Tailwind CSS. ",
+    "codeLink": "",
+    "imageFile": "PAE.jpeg",
+    "projectSite":""
   },
   {
-    "baslik": "Blur Face",
-    "aciklama": "A project that explores the process of blurring artificial intelligence, presented as a university term paper. I developed the front-end of this website using Django.",
-    "siteLink": "https://github.com/hsemihaktas/BlurryFace",
-    "resimDosya": "BlurFace.png"
+    "title": "Blur Face",
+    "description": "A project that explores the process of blurring artificial intelligence, presented as a university term paper. I developed the front-end of this website using Django.",
+    "codeLink": "https://github.com/hsemihaktas/BlurryFace",
+    "imageFile": "BlurFace.png",
+    "projectSite":""
   },
   {
-    "baslik": "Riot Twitch Bot",
-    "aciklama": "We are collaborating on a Twitch chatbot that utilizes Node.js and the Axios library to access the Riot Games API. The chatbot aims to furnish Twitch viewers with up-to-date in-game data for both 'League of Legends' and 'Teamfight Tactics' matches.",
-    "siteLink": "https://github.com/hsemihaktas/RiotTwitchBot",
-    "resimDosya": "RiotTwicthBot.png"
+    "title": "Riot Twitch Bot",
+    "description": "We are collaborating on a Twitch chatbot that utilizes Node.js and the Axios library to access the Riot Games API. The chatbot aims to furnish Twitch viewers with up-to-date in-game data for both 'League of Legends' and 'Teamfight Tactics' matches.",
+    "codeLink": "https://github.com/hsemihaktas/RiotTwitchBot",
+    "imageFile": "RiotTwicthBot.png",
+    "projectSite":""
+  },
+  {
+    "title": "Riot Twitch Bot Website",
+    "description": "The site I created allows everyone to recognise the RiotTwitchBot we're making.",
+    "codeLink": "https://github.com/hsemihaktas/RiotTwitchBotWebsite",
+    "imageFile": "RiotTwitchBotWebsite.png",
+    "projectSite":""
   }
 ]
