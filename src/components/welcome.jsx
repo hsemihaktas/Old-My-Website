@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import WelcomeBackground from "../images/welcomeBackground.jpg"
 
 const Welcome = () => {
-    const words = ["Semih","Web Developer"];
+    const words = ["Semih","Front-end Developer","Computer Engineer"];
     const [text, setText] = useState("");
     const [currentIndex, setCurrentIndex] = useState(0);
     const [currentWordIndex, setCurrentWordIndex] = useState(0);
@@ -25,7 +25,7 @@ const Welcome = () => {
           }
         };
     
-        const animationInterval = setInterval(animateText, 500);
+        const animationInterval = setInterval(animateText, 300);
     
         return () => clearInterval(animationInterval);
       // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -38,7 +38,7 @@ const Welcome = () => {
             <div className='absolute flex w-full h-full justify-center items-center mt-16'>
                 <div className='w-full text-center'>
                 <h1 className='title text-white text-7xl'>Hello!</h1>
-                <h1 className='title text-white text-7xl'>I am <span className='changeText'>{text}</span><span className='cursor'>|</span></h1>
+                <h1 className='title text-white text-7xl'>I'm <span className='changeText'>{text}</span><span className='cursor'>|</span></h1>
                 </div>
             </div>    
         </div>

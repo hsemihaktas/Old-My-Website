@@ -14,7 +14,7 @@ body {
 }
 .cursor {
   display: inline-block;
-  animation: cursor-blink 0.5s infinite;
+  animation: cursor-blink 0.3s infinite;
   font-size: 1.2em;
 }
 
@@ -28,11 +28,6 @@ body {
   100% {
     opacity: 1;
   }
-}
-.social-buttons {
-  padding-bottom: 5px;
-  border-radius: 10px;
-  width: 500px;
 }
 
 /* Helper class to divide the icons */

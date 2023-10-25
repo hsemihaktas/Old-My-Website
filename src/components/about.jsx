@@ -24,7 +24,7 @@ const About = () => {
             saw ReactJS and NodeJS as close to myself and I am trying to improve
             myself in these areas.
           </div>
-          <div className="social-buttons">
+          <div className=" w-full flex flex-wrap">
             <a
               href="https://www.linkedin.com/in/hsemihaktas/"
               className="social-margin"
