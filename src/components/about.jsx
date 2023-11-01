@@ -83,7 +83,7 @@ const About = () => {
         </div>
         <div className="w-0 lg:w-1/3 lg:h-1/2 lg:flex lg:flex-wrap ">
           <div className="w-full ">
-            <img src={QuestionPNG} alt="question" />
+            <img src={QuestionPNG} alt="question" className="drop-shadow-[0_35px_35px_rgba(0,65,255,0.7)]  hover:scale-110 transition-all transform duration-500"/>
           </div>
         </div>
       </div>
