@@ -25,6 +25,6 @@
     "description": "The site I created allows everyone to recognise the RiotTwitchBot we're making.",
     "codeLink": "https://github.com/hsemihaktas/RiotTwitchBotWebsite",
     "imageFile": "RiotTwitchBotWebsite.png",
-    "projectSite":""
+    "projectSite":"https://riottwitchbot.vercel.app/"
   }
 ]
