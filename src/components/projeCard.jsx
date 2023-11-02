@@ -6,7 +6,7 @@ const ProjeCard = ({ project }) => {
       <div className="w-full h-auto p-6 bg-white rounded-xl shadow-xl hover:shadow-2xl hover:scale-110 transition-all transform duration-500">
         {project.imageFile && (
           <img
-            className="w-full h-60 object-cover rounded-t-md"
+            className="w-full h-60 object-contain rounded-t-md"
             src={require(`../images/${project.imageFile}`)}
             alt={project.baslik}
           />

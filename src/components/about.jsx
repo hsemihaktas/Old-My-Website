@@ -5,8 +5,8 @@ import "font-awesome/css/font-awesome.min.css";
 const About = () => {
   const handleDownload = () => {
     const anchor = document.createElement("a");
-    anchor.href = "/cv.pdf"; // Zip dosyanızın yolu
-    anchor.download = "HasanSemihAktasCV.pdf"; // İndirilen dosyanın adı
+    anchor.href = "/cv.pdf";
+    anchor.download = "HasanSemihAktasCV.pdf"; 
     anchor.click();
   };
   return (
