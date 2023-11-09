@@ -29,7 +29,7 @@
   },
   {
     "title": "Estate Website",
-    "description": "The previous property site lacked the functionality to upload and retrieve images from MySql database. In this newly developed site, image operations have been rectified alongside the addition of filtering options. Furthermore, the website's aesthetics have been greatly improved. ",
+    "description": "In this project, my objective was to create a real estate website to self-teach myself mysql operations. Employing Reactjs, nodejs, and mysql, I executed functions such as adding, editing, deleting, viewing, and sorting advertisements.",
     "codeLink": "https://github.com/hsemihaktas/EstateWebsite",
     "imageFile": "EstateWebsite.png",
     "projectSite":""
