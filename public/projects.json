@@ -26,5 +26,12 @@
     "codeLink": "https://github.com/hsemihaktas/RiotTwitchBotWebsite",
     "imageFile": "RiotTwitchBotWebsite.png",
     "projectSite":"https://riottwitchbot.vercel.app/"
+  },
+  {
+    "title": "Estate Website",
+    "description": "The previous property site lacked the functionality to upload and retrieve images from MySql database. In this newly developed site, image operations have been rectified alongside the addition of filtering options. Furthermore, the website's aesthetics have been greatly improved. ",
+    "codeLink": "https://github.com/hsemihaktas/EstateWebsite",
+    "imageFile": "EstateWebsite.png",
+    "projectSite":""
   }
 ]
