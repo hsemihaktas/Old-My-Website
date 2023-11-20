@@ -10,7 +10,7 @@ body {
   z-index: 1;
 }
 .changeText {
-  color: orange;
+  color: #df9100;
 }
 .cursor {
   display: inline-block;
